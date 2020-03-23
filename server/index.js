@@ -1,4 +1,6 @@
+//require express
 const express = require("express");
+
 const mc = require("./controllers/messages_controller");
 
 const app = express();
